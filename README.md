@@ -1,7 +1,7 @@
 
 
 # Jared's Portfolio
-![alt text](./assets/images/charlesdeluvio-Lks7vei-eAg-unsplash.jpg)
+![alt text](./assets/image/Screenshot\ 2023-01-18\ 170549.png)
 # Created first portfolio using html and css properties
 ##### Table of Contents  
 [Description](#description)  
@@ -14,6 +14,8 @@
 -Image 3: (./images/charlesdeluvio-Lks7vei-eAg-unsplash.jpg)
 -Image 4: url(./images/kevin-matos-Nl_FMFpXo2g-unsplash.jpg)
 -Image 5: url(./images/luca-bravo-XJXWbfSo2f0-unsplash.jpg)
+-Image 6: background-image: url(./images greg-rakozy-oMpAz-DN-9I-unsplash.jpg);
+-Image 7:./images/Screenshot\ 2023-01-18\ 170549.png
 
 - [Deployed Site]
 -git@github.com:JaredrJack/Jared-s-portfolio.git
