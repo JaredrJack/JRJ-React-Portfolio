@@ -1,7 +1,7 @@
 
 
 # Jared's Portfolio
-![Alt text] ("./images/portfolioscreenshot.jpg")
+![Alt text] ("assets/images/portfolioscreenshot.jpg")
 # Created first portfolio using html and css properties
 ##### Table of Contents  
 [Description](#description)  
