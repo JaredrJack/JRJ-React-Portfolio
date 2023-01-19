@@ -1,7 +1,7 @@
 
 
 # Jared's Portfolio
-![ScreenShot] ("./images/Screenshot 2023-01-18 170549.png")
+![alt text]("assets./images/Screenshot 2023-01-18 170549.png")
 # Created first portfolio using html and css properties
 ##### Table of Contents  
 [Description](#description)  
