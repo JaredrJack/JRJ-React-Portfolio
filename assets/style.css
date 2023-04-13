@@ -22,7 +22,7 @@ body {
 /*  */
 .section-heading {
     flex: 1;
-    text-align: right;
+    text-align: center;
     padding-right: 1rem;
     border-right: 3px solid rgb(249, 248, 248);
     flex-direction: column;
@@ -208,11 +208,12 @@ h4 {
     display:flex;
     text-align: left;
     text-decoration: overline;
-    font-display: white;
+    font-display: rgb(11, 71, 124);
 }
 footer {
     padding: 30px;
     clear: both;
     border: 8cm;
     border-color: gray;
+    color:rgb(11, 71, 124)
 } 
